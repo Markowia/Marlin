@@ -21,8 +21,6 @@
  */
 #pragma once
 
-#define CONFIG_EXAMPLES_DIR "Creality/Ender-3/CrealityV1"
-
 /**
  * Configuration.h
  *
@@ -37,7 +35,7 @@
  *
  * Advanced settings can be found in Configuration_adv.h
  */
-#define CONFIGURATION_H_VERSION 02010201
+#define CONFIGURATION_H_VERSION 02010300
 
 //===========================================================================
 //============================= Getting Started =============================
@@ -48,12 +46,13 @@
  *
  * Example Configs:     https://github.com/MarlinFirmware/Configurations/branches/all
  *
- * Průša Calculator:    https://blog.prusaprinters.org/calculator_3416/
+ * Průša Calculator:    https://blog.prusa3d.com/calculator_3416/
  *
  * Calibration Guides:  https://reprap.org/wiki/Calibration
  *                      https://reprap.org/wiki/Triffid_Hunter%27s_Calibration_Guide
- *                      https://sites.google.com/site/repraplogphase/calibration-of-your-reprap
+ *                      https://web.archive.org/web/20220907014303/https://sites.google.com/site/repraplogphase/calibration-of-your-reprap
  *                      https://youtu.be/wAL9d7FgInk
+ *                      https://teachingtechyt.github.io/calibration.html
  *
  * Calibration Objects: https://www.thingiverse.com/thing:5573
  *                      https://www.thingiverse.com/thing:1278865
